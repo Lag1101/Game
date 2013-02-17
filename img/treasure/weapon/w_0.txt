@@ -1,0 +1,1 @@
+level:3;min_atack:8;max_atack:9;

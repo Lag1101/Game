@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/css/persona_window.css" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/css/span.css" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/css/style.css" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/index.html" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/js/canvas.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/js/card.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/js/cards_map.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/js/dragndrop.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/js/enemy.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/js/game.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/js/persona.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/js/slot.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/js/span.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/js/unit.js" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/js/world.js" charset="UTF-16" />
+  </component>
+</project>
+

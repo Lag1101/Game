@@ -1,0 +1,1 @@
+level:15;min_atack:7;max_atack:15;
