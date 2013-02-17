@@ -26,11 +26,10 @@ function UnitWindowHeader()
 
 function UnitWindow(i_painter)
 {
-    this.__proto__ = new UnitWindow(i_painter);
+    this.__proto__ = new Window(i_painter);
     this.unit = new Unit();
     this.slots = new SmartArray();
-    
-    var ego = this;
+
     
     this.Redraw = function()
     {
